@@ -1,0 +1,190 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication3.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+
+    <title></title>
+    <style type="text/css">
+        p
+        {
+            text-align:center;
+            font-size:large;
+            font-family:Constantia;
+            
+            
+            }
+            h4
+            {
+                font-family:Broadway;
+                font-size:xx-large;
+                color:Teal;
+                
+   
+                }
+                h2
+                {
+                    font-family:Broadway;
+                    font-size:large;
+                    color:Teal;
+                    
+                    
+                    
+                    }
+        .style4
+        {
+            width: 100%;
+        }
+        .style5
+        {
+            width: 152px;
+            height: 122px;
+        }
+        .style6
+        {
+            width: 91px;
+        }
+        #Button1
+        {
+            width: 90px;
+        }
+        #HOME
+        {
+            width: 90px;
+        }
+        .style7
+        {
+            width: 114px;
+        }
+        .style8
+        {
+            width: 104px;
+        }
+        .style9
+        {
+            
+            width: 107px;
+        }
+        #name
+        {
+            height: 131px;
+        }
+        .style16
+        {
+            width: 871px;
+        }
+        .style17
+        {
+            width: 225px;
+        }
+        #title
+        {
+            background-color:black;
+            text-align:center;
+            height: 124px;
+        }
+    </style>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+<link href="StyleSheet1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+     <div id="wrapper">
+<div id="name">
+<table style="height: 125px">
+<tr>
+<td class="style17">
+    <asp:Image ID="Image1" runat="server" Height="112px" 
+        ImageUrl="~/images/images.jpg" Width="232px" />
+    </td>
+<td class="style16"><div id="title"><h4>SHIKSHYA E-LEARNING</h4>
+<h2>
+-An Educational Journey ahead-
+</h2>
+</div></td>
+</tr>
+</table>
+</div>
+    <div id="logo_text">
+   <table class="style4">
+        <tr>
+            <td class="style5">
+                <img alt="" src="banner.jpg" style="width: 891px; height: 201px" /></td>    
+            
+        </tr>
+        </table>
+       </div>
+    
+    <div id="topnav">
+    
+        <table style="width:82%;">
+            <tr>
+                <td class="style6">
+                    <asp:ImageButton ID="ImageButton1" runat="server" Height="35px" 
+                        ImageUrl="~/images/home.png" Width="110px"  
+                         onmouseover="this.src='../hover/button.jpeg';" onmouseout="this.src='../images/home.png';" PostBackUrl="~/home.aspx" ClientIDMode="Inherit" />
+
+                    </td>
+                <td class="style7">
+                    <asp:ImageButton ID="ImageButton2" runat="server" Height="35px" 
+                        ImageUrl="~/images/about.jpeg"  
+                        onmouseover="this.src='../hover/about.jpeg';" 
+                        onmouseout="this.src='../images/about.jpeg';" Width="110px" 
+                        PostBackUrl="~/about us.aspx" />
+
+                    </td>
+                <td class="style7">
+                    <asp:ImageButton ID="ImageButton3" runat="server" 
+                        ImageUrl="~/images/course.jpeg"  
+                        onmouseover="this.src='../hover/course.jpeg';" 
+                        onmouseout="this.src='../images/course.jpeg';" Width="110px" Height="35px" 
+                        PostBackUrl="~/courses.aspx" />
+</td>
+            
+                <td class="style8">
+                    <asp:ImageButton ID="ImageButton4" runat="server" 
+                        ImageUrl="~/images/faculty.jpeg"  
+                        onmouseover="this.src='../hover/faculty.jpeg';" 
+                        onmouseout="this.src='../images/faculty.jpeg';" Width="110px" Height="35px" 
+                        PostBackUrl="~/faculty.aspx" />
+</td>
+                <td class="style9">
+                    <asp:ImageButton ID="ImageButton5" runat="server" 
+                        ImageUrl="~/images/stud.jpeg"  onmouseover="this.src='../hover/stud.jpeg';" onmouseout="this.src='../images/stud.jpeg';"
+                        Width="110px" Height="35px" PostBackUrl="~/student.aspx" />
+</td>
+                <td>
+                    <asp:ImageButton ID="ImageButton6" runat="server" 
+                        ImageUrl="~/images/feed.jpeg"  onmouseover="this.src='../hover/feed.jpeg';" onmouseout="this.src='../images/feed.jpeg';"
+                        Width="110px" Height="35px" PostBackUrl="~/feedback.aspx"  />
+</td>
+<td>
+
+    <asp:ImageButton ID="ImageButton7" runat="server" Height="35px" 
+        ImageUrl="~/images/register.jpeg" 
+        onmouseover="this.src='../hover/register.jpeg';" 
+        onmouseout="this.src='../images/register.jpeg';" Width="110px" 
+        PostBackUrl="~/reg.aspx"    />
+
+</td>
+            </tr>
+        </table>
+    
+   </div>
+   
+    <div style="height: 459px">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <div id="footer">
+    <p>All rights reserved to @Shikshya Education</p>
+        </div>
+   </div>
+    </form>
+</body>
+</html>

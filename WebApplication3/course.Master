@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="course.master.cs" Inherits="WebApplication3.course" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+    body
+{
+    height: 1000px;
+    background-color:Purple;    
+}
+        #title
+        {
+            background-color:black;
+            text-align:center;
+            height: 124px;
+            width: 656px;
+        }
+
+#wrapper
+{       background-color:White;
+    margin-left:200px;
+    width:900px;
+    height:1135px;
+    margin-right: 0px;
+    }
+    h4
+            {
+                font-family:Broadway;
+                font-size:xx-large;
+                color:Teal;
+                
+   
+                }
+                h2
+                {
+                    font-family:Gentium Basic;
+                    font-size:large;
+                    color:Teal;
+                  
+                    }
+
+
+        .style1
+        {
+            width: 781px;
+        }
+        #ban
+        {
+            height: 136px;
+        }
+
+
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="wrapper">
+<div id="name">
+<table style="height: 125px; width: 1013px;">
+<tr>
+<td class="style17">
+    <asp:Image ID="Image1" runat="server" Height="112px" 
+        ImageUrl="~/images/images.jpg" Width="232px" />
+    </td>
+<td class="style1"><div id="title"><h4>SHIKSHYA E-LEARNING</h4>
+<h2>
+-An Educational Journey ahead-
+</h2>
+</div></td>
+</tr>
+</table>
+</div>
+<div id="ban">
+      <asp:Image ID="Image2" runat="server" Height="104px" 
+            ImageUrl="~/images/boook.jpg" Width="899px" />
+    
+</div>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+      
+    </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

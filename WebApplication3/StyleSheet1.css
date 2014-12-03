@@ -1,0 +1,66 @@
+﻿
+p
+{
+    text-align:center
+    font-family:Bookman Old Style;
+    color:Silver;
+    height: 60px;
+    margin-top: 150px;
+}
+body 
+{
+    background-color:Purple;
+    height: 1000px;
+}
+#wrapper
+{
+    background-color:White;
+    margin-left:200px;
+    width:900px;
+    height:900px;
+    margin-right: 0px;
+
+}
+#logo_text
+{  
+    }
+  
+#footer
+{
+    background-color:Black;
+    
+    
+}
+
+#topnav         
+{
+clear:both; 
+margin-left:50px;
+}
+#topnav a:link  
+{
+    color:Purple;
+                 font-family:Cooper Black;
+                 }
+#topnav a:visited  
+{
+    
+    color:Purple;}
+#topnav a:active { color:#000;}
+#topnav a:focus {color:#666;}
+#topnav a:hover {color:#960;}
+#content
+{
+    float:right;
+    margin-top:6px;
+    height: 148px;
+    width: 485px;
+}
+#news
+{
+
+    width: 898px;
+    height: 301px;
+    
+    
+}

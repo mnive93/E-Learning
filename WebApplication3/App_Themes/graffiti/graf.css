@@ -1,0 +1,29 @@
+﻿body
+{
+    height: 1000px;
+    background-image: url('graf.jpg');
+    
+}
+#wrapper
+{
+    background-color:Silver;
+    
+    }
+        .text
+        {
+            font-family:Ebrima;
+            color:Teal;
+            font-size:xx-large;
+            }
+         h4
+            {
+                font-family:Century Gothic;
+                font-size:xx-large;
+                color:Purple;
+                }
+                h2
+                {
+                    font-family:Gentium Basic;
+                    font-size:large;
+                    color:Gray;
+                    }

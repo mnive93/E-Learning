@@ -1,0 +1,28 @@
+﻿body
+{
+    height: 1000px;
+    background-image: url('at6.jpeg');
+    
+}
+#wrapper
+{
+    background-color: #334C80;
+}
+        .text
+        {
+            font-family:Gabriola;
+            color:Silver;
+            font-size:xx-large;
+            }
+         h4
+            {
+                font-family:Arial Baltic;
+                font-size:xx-large;
+                color:Silver;
+                }
+                h2
+                {
+                    font-family:Gentium Basic;
+                    font-size:large;
+                    color:Silver;
+                    }

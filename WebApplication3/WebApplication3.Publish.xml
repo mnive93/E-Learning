@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="http://localhost" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="images/feed.jpeg" publishTime="12/10/2012 20:49:45" />
+    <file relUrl="App_Themes/graffiti/graf.css" publishTime="12/26/2012 19:50:45" />
+    <file relUrl="images/read.png" publishTime="12/24/2012 21:36:52" />
+    <file relUrl="bin/WebApplication3.pdb" publishTime="04/01/2013 15:01:32" />
+    <file relUrl="Account/Web.config" publishTime="12/03/2012 20:47:58" />
+    <file relUrl="about us.aspx" publishTime="03/30/2013 15:00:07" />
+    <file relUrl="Styles/Site.css" publishTime="12/03/2012 20:47:58" />
+    <file relUrl="images/re.png" publishTime="12/24/2012 19:23:20" />
+    <file relUrl="studentlog.aspx" publishTime="04/01/2013 12:47:55" />
+    <file relUrl="Web.config" publishTime="04/01/2013 15:20:40" />
+    <file relUrl="feedback.aspx" publishTime="04/01/2013 02:17:45" />
+    <file relUrl="WebForm5.aspx" publishTime="03/29/2013 19:00:39" />
+    <file relUrl="Site1.Master" publishTime="12/30/2012 00:49:00" />
+    <file relUrl="images/boook.jpg" publishTime="12/29/2012 18:21:03" />
+    <file relUrl="banner.jpg" publishTime="12/10/2012 23:53:43" />
+    <file relUrl="App_Themes/sunshine/sunshine.skin" publishTime="12/26/2012 19:48:00" />
+    <file relUrl="wrap.jpg" publishTime="12/03/2012 20:56:25" />
+    <file relUrl="App_Themes/graffiti/graffiti.skin" publishTime="12/26/2012 00:49:28" />
+    <file relUrl="App_Themes/classic/classic.skin" publishTime="12/26/2012 00:49:16" />
+    <file relUrl="images/feedb.jpg" publishTime="12/30/2012 00:12:14" />
+    <file relUrl="Global.asax" publishTime="12/03/2012 20:47:58" />
+    <file relUrl="WEB DESIGN.aspx" publishTime="12/29/2012 21:50:23" />
+    <file relUrl="hover/rc2.png" publishTime="12/24/2012 21:56:51" />
+    <file relUrl="facultylog.aspx" publishTime="12/29/2012 23:49:38" />
+    <file relUrl="Account/Register.aspx" publishTime="12/03/2012 20:47:58" />
+    <file relUrl="images/posters.jpg" publishTime="12/20/2012 23:38:34" />
+    <file relUrl="App_Themes/classic/StyleSheet2.css" publishTime="12/26/2012 19:50:41" />
+    <file relUrl="course.Master" publishTime="12/29/2012 18:27:47" />
+    <file relUrl="images/David BeckerField.jpg" publishTime="12/25/2012 19:33:31" />
+    <file relUrl="images/Ian Seinfield.jpg" publishTime="12/25/2012 19:33:31" />
+    <file relUrl="images/sub.png" publishTime="12/25/2012 22:39:08" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="12/03/2012 20:47:58" />
+    <file relUrl="images/web.jpg" publishTime="12/24/2012 22:05:26" />
+    <file relUrl="WebForm4.aspx" publishTime="12/26/2012 00:14:57" />
+    <file relUrl="NETWORKS AND COMMUNICATION.aspx" publishTime="12/29/2012 21:47:44" />
+    <file relUrl="hover/re2.png" publishTime="12/24/2012 19:24:54" />
+    <file relUrl="images/download.jpg" publishTime="12/20/2012 23:45:06" />
+    <file relUrl="slide1.jpg" publishTime="12/10/2012 23:51:12" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="12/03/2012 20:47:58" />
+    <file relUrl="student.aspx" publishTime="12/24/2012 19:36:33" />
+    <file relUrl="App_Themes/quidditch/quidditch.skin" publishTime="03/30/2013 17:01:38" />
+    <file relUrl="images/el.jpg" publishTime="12/29/2012 23:54:48" />
+    <file relUrl="images/pic.jpg" publishTime="12/21/2012 00:39:51" />
+    <file relUrl="hover/feed.jpeg" publishTime="12/10/2012 21:36:35" />
+    <file relUrl="home.aspx" publishTime="12/25/2012 19:28:30" />
+    <file relUrl="hover/read2.png" publishTime="12/24/2012 21:37:12" />
+    <file relUrl="images/book.jpg" publishTime="12/10/2012 21:07:09" />
+    <file relUrl="images/deg.jpg" publishTime="12/24/2012 19:07:25" />
+    <file relUrl="slide.jpg" publishTime="12/10/2012 23:51:12" />
+    <file relUrl="App_Themes/sunshine/sunshine.jpg" publishTime="12/26/2012 19:45:38" />
+    <file relUrl="App_Themes/atlantis/at6.jpeg" publishTime="03/30/2013 17:01:38" />
+    <file relUrl="hover/stud.jpeg" publishTime="12/10/2012 21:36:35" />
+    <file relUrl="slide2.jpg" publishTime="12/10/2012 23:51:12" />
+    <file relUrl="images/faculty.jpeg" publishTime="12/10/2012 20:49:45" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="12/03/2012 20:47:58" />
+    <file relUrl="images/ban.jpg" publishTime="12/20/2012 23:55:30" />
+    <file relUrl="images/home.png" publishTime="12/10/2012 20:49:45" />
+    <file relUrl="faculty.aspx" publishTime="12/30/2012 00:38:09" />
+    <file relUrl="hover/fac3.jpg" publishTime="12/25/2012 19:27:57" />
+    <file relUrl="hover/sub2.png" publishTime="12/25/2012 22:39:28" />
+    <file relUrl="hover/faculty.jpeg" publishTime="12/10/2012 21:36:35" />
+    <file relUrl="courses.aspx" publishTime="12/30/2012 00:36:12" />
+    <file relUrl="images/ban2.jpg" publishTime="12/21/2012 00:09:04" />
+    <file relUrl="images/pdf_icon.png" publishTime="12/29/2012 18:41:07" />
+    <file relUrl="INTRO TO COMPUTER SCIENCE.aspx" publishTime="12/29/2012 21:45:57" />
+    <file relUrl="StyleSheet1.css" publishTime="12/30/2012 00:04:41" />
+    <file relUrl="images/rc.png" publishTime="12/24/2012 21:56:26" />
+    <file relUrl="bin/WebApplication3.dll" publishTime="04/01/2013 15:01:32" />
+    <file relUrl="hover/about.jpeg" publishTime="12/10/2012 21:36:35" />
+    <file relUrl="images/course.jpeg" publishTime="12/10/2012 20:49:45" />
+    <file relUrl="regcourse.aspx" publishTime="12/24/2012 23:30:52" />
+    <file relUrl="images/images.jpg" publishTime="12/24/2012 22:19:12" />
+    <file relUrl="hover/course.jpeg" publishTime="12/10/2012 21:36:35" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="12/03/2012 20:47:58" />
+    <file relUrl="App_Themes/quidditch/quidditch.jpg" publishTime="03/30/2013 17:01:38" />
+    <file relUrl="slide3.jpg" publishTime="12/10/2012 23:51:12" />
+    <file relUrl="hover/fac2.jpg" publishTime="12/25/2012 19:23:24" />
+    <file relUrl="images/cli.png" publishTime="12/25/2012 22:04:51" />
+    <file relUrl="images/cou.jpg" publishTime="12/24/2012 19:09:28" />
+    <file relUrl="images/register.jpeg" publishTime="12/10/2012 20:49:45" />
+    <file relUrl="hover/register.jpeg" publishTime="12/10/2012 21:36:35" />
+    <file relUrl="App_Themes/atlantis/atl.css" publishTime="03/30/2013 17:01:38" />
+    <file relUrl="images/stud.jpeg" publishTime="12/10/2012 20:49:45" />
+    <file relUrl="images/about.jpeg" publishTime="12/10/2012 20:56:27" />
+    <file relUrl="images/fac.jpg" publishTime="12/24/2012 19:04:54" />
+    <file relUrl="hover/COU2.jpg" publishTime="12/25/2012 19:19:46" />
+    <file relUrl="StyleSheet2.css" publishTime="12/29/2012 23:26:31" />
+    <file relUrl="hover/button.jpeg" publishTime="12/10/2012 21:36:35" />
+    <file relUrl="images/slide2.jpg" publishTime="12/25/2012 16:53:40" />
+    <file relUrl="Account/Login.aspx" publishTime="12/03/2012 20:47:58" />
+    <file relUrl="App_Themes/atlantis/atlantis.skin" publishTime="03/30/2013 17:01:38" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="12/03/2012 20:47:58" />
+    <file relUrl="images/cs.jpg" publishTime="12/24/2012 22:03:28" />
+    <file relUrl="App_Themes/sunshine/sunshine.css" publishTime="12/26/2012 19:50:34" />
+    <file relUrl="images/REG.jpg" publishTime="12/11/2012 20:34:22" />
+    <file relUrl="slide4.jpg" publishTime="12/10/2012 23:51:12" />
+    <file relUrl="images/Punith Malhothra.jpg" publishTime="12/25/2012 19:33:31" />
+    <file relUrl="WebForm1.aspx" publishTime="12/29/2012 21:44:02" />
+    <file relUrl="reg.aspx" publishTime="12/30/2012 00:39:15" />
+    <file relUrl="App_Themes/graffiti/graf.jpg" publishTime="12/25/2012 23:43:50" />
+    <file relUrl="App_Themes/quidditch/quid.css" publishTime="03/30/2013 17:01:38" />
+    <file relUrl="hover/cli2.png" publishTime="12/25/2012 22:05:03" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,31 @@
+﻿body
+        {
+            height:1000px;
+            background-color:Purple;
+            }
+#wrapper
+{
+    background-color:White
+    
+    }
+        .text
+        {
+            font-family:Gentium Basic;
+            color:Black;
+            font-size:xx-large;
+            }
+         h4
+            {
+                font-family:Broadway;
+                font-size:xx-large;
+                color:Teal;
+                
+   
+                }
+                h2
+                {
+                    font-family:Gentium Basic;
+                    font-size:large;
+                    color:Teal;
+                  
+                    }

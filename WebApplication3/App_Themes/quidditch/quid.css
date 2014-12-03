@@ -1,0 +1,29 @@
+﻿body
+{
+    height: 1000px;
+    background-image: url('quidditch.jpg');
+    
+}
+#wrapper
+{
+    background-color:#F4F4C6;
+    
+    }
+        .text
+        {
+            font-family:Ebrima;
+            color:Green;
+            font-size:xx-large;
+            }
+         h4
+            {
+                font-family:Century Gothic;
+                font-size:xx-large;
+                color:Green;
+                }
+                h2
+                {
+                    font-family:Gentium Basic;
+                    font-size:large;
+                    color:Gray;
+                    }
